@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## :man_student: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;🔭 &nbsp;Currently working as a DevOps intern @ [symphony.is](https://symphony.is) and doing my MSc at [Faculty Of Technical Sciences](http://www.ftn.uns.ac.rs/691618389/fakultet-tehnickih-nauka) (University Of Novi Sad) \
+&nbsp;&nbsp;&nbsp;🔭 &nbsp;Currently working as a DevOps intern @ [Hero](https://herohealth.com/) and doing my MSc at [Faculty Of Technical Sciences](http://www.ftn.uns.ac.rs/691618389/fakultet-tehnickih-nauka) (University Of Novi Sad) \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;I have the most experience in web development and devops, also took interest in mobile dev and machine learning, and find it comfortable to work with.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Currently working as devops and I believe that it is the right thing for me because of love for problem solving and daily routines automation. Eager to learn and familiarize myself with technologies which I never had the chance to work with and I love new challenges.\
 &nbsp;&nbsp;&nbsp;⚡ &nbsp;Big fan of Nikola Tesla 😄
